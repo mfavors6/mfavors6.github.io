@@ -104,3 +104,40 @@ Thank you for coming to our website, where we explore the world of automobile he
 </body>
 </html>
 <!-- Similar structure as index.html, but with content related to the About page -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starlight Header - About Us</title>
+    <!-- Add your styles or link to an external stylesheet if needed -->
+</head>
+<body>
+
+    <header>
+        <h1>Starlight Header</h1>
+        <p>Welcome to Our Business Website</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="services.html">Services</a>
+        <a href="blog.html">Blog</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <section>
+        <h2>About Us</h2>
+        <p>Welcome to the About Us page of Starlight Header. We are a team of dedicated professionals passionate about creating exceptional headers for businesses. Our mission is to provide high-quality, customized solutions to enhance your brand's visual identity.</p>
+        
+        <!-- You can add more information about your team, mission, values, etc. here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Starlight Header - All rights reserved</p>
+    </footer>
+
+</body>
+</html>
