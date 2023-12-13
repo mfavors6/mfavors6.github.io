@@ -103,3 +103,4 @@ Thank you for coming to our website, where we explore the world of automobile he
 
 </body>
 </html>
+<!-- Similar structure as index.html, but with content related to the About page -->
